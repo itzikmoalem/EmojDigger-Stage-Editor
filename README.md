@@ -2,7 +2,7 @@
 With this project, you can edit stages to "EmojDigger" game project. 
 Created with SFML library.
 
-I and my partner worte 4 classes 
+Me and my partner worte 4 classes 
 (CPP + Header files) :
 
 <b>Rectangle</b> - The base class for Board and Menu classes.
