@@ -1,5 +1,5 @@
 # EmojDigger | Stage-Editor
-With this project, you can edit stages to "EmojDigger" game project. 
+With this program, you can edit stages to "EmojDigger" game project. 
 Created with SFML library.
 
 <a href="https://ibb.co/zx12G8W"><img src="https://i.ibb.co/NCXNZ1g/Untitled-sff1.jpg" alt="Untitled-sff1" border="0"></a>
